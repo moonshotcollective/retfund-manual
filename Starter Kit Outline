@@ -1,9 +1,20 @@
 Retroactive Public Goods Funding Starter Kit
 
-1 - create gnosis safe on polygon
+1 - create gnosis safe (it's a multisig wallet that will be at the core of your DAO) on polygon
 why? - there is a need for an account that facilitates advanced access/control to make sure there is no single point of failure when managing significant amounts of digital assets.
 https://gnosis-safe.io/
+tutorial: https://help.gnosis-safe.io/en/articles/3876461-create-a-safe
 screenshot
 make sure you have matic for gas!
 if you have multiple gnosis safes Make sure not to send funds to a Safe address on the wrong network.
 idea on how to structure your multisig-https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use
+
+2. create project token
+How much supply?
+fixed supply?
+Mintable?
+supply distribution?
+https://vittominacori.github.io/erc20-generator/ - mint for fee
+https://coinstructor.io/ - mint for fee. gas optimized
+https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-solidity/2908 - using remix IDE
+https://www.dapp.com/article/token-maker - list of 4 different platforms for launching -
