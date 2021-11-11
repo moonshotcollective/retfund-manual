@@ -1,0 +1,9 @@
+Retroactive Public Goods Funding Starter Kit
+
+1 - create gnosis safe on polygon
+why? - there is a need for an account that facilitates advanced access/control to make sure there is no single point of failure when managing significant amounts of digital assets.
+https://gnosis-safe.io/
+screenshot
+make sure you have matic for gas!
+if you have multiple gnosis safes Make sure not to send funds to a Safe address on the wrong network.
+idea on how to structure your multisig-https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use
