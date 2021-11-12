@@ -1,8 +1,9 @@
 Retroactive Public Goods Funding Starter Kit
 
 1 - create gnosis safe (it's a multisig wallet that will be at the core of your DAO) on polygon
-why? - there is a need for an account that facilitates advanced access/control to make sure there is no single point of failure when managing significant amounts of digital assets.
-https://gnosis-safe.io/
+why? - there is a need for an account that facilitates advanced access/control to make sure there is no
+single point of failure when managing significant amounts of digital assets.
+https://gnosis-safe.io/app/#/welcome
 tutorial: https://help.gnosis-safe.io/en/articles/3876461-create-a-safe
 screenshot
 make sure you have matic for gas!
@@ -10,11 +11,28 @@ if you have multiple gnosis safes Make sure not to send funds to a Safe address 
 idea on how to structure your multisig-https://help.gnosis-safe.io/en/articles/4772567-what-safe-setup-should-i-use
 
 2. create project token
-How much supply?
-fixed supply?
-Mintable?
-supply distribution?
+Example tokenomics:
+https://gitcoin.co/blog/introducing-gtc-gitcoins-governance-token/
+  The total supply of GTC is 100,000,000 (100M) tokens, broken down as follows.
+  Retroactive Airdrop – 15%
+  Gitcoin DAO – 50%
+  Existing Stakeholders – 35%
+
+https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY
+  There will be 100 million total $ENS tokens, and the distribution is as follows:
+    25% airdrop to .ETH holders (>137k accounts)
+    25% to ENS contributors (>100 individuals and groups, plus hundreds of Discord users)
+    50% to the DAO community treasury
+      10% of this allocation will be available to the DAO at launch, with the remaining unlocking over 4 years
+
+
+Minting resources
 https://vittominacori.github.io/erc20-generator/ - mint for fee
 https://coinstructor.io/ - mint for fee. gas optimized
 https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-solidity/2908 - using remix IDE
 https://www.dapp.com/article/token-maker - list of 4 different platforms for launching -
+  Roll seems most legit
+
+
+Create a legal entity???
+ENS made a foundation in the cayman islands to handle tax responsibilities
