@@ -27,11 +27,16 @@ https://ens.mirror.xyz/-eaqMv7XPikvXhvjbjzzPNLS4wzcQ8vdOgi9eNXeUuY
 
 
 Minting resources
-https://vittominacori.github.io/erc20-generator/ - mint for fee
+https://supertoken.xyz/polygon-generator - mint directly to polygon free - 45 MATIC
 https://coinstructor.io/ - mint for fee. gas optimized
 https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-solidity/2908 - using remix IDE
-https://www.dapp.com/article/token-maker - list of 4 different platforms for launching -
-  Roll seems most legit
+https://vittominacori.github.io/erc20-generator/ - mint for a fee - has tons of different options
+
+
+3. zodiac pack
+https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg - Summary of how zodiac pack works
+
+use snapshot for voting?
 
 
 Create a legal entity???
