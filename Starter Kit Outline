@@ -48,6 +48,17 @@ necessary to setup snapshot
 5. setup Snapshot for voting
 https://docs.snapshot.org/spaces/create
 
+6. setup tally
+https://www.withtally.com/governance/gitcoin
+
+7. fork compound bravo govenor?
+Medium article explaining govenor
+  https://medium.com/compound-finance/compound-governance-5531f524cf68
+Compound governance documentation
+  https://compound.finance/docs/governance
+Forked Compound Example
+  https://opentaps.org/2021/03/24/tutorial-how-to-customize-and-deploy-compound-dao/
+
 
 Conviction voting explainer - https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475
 
