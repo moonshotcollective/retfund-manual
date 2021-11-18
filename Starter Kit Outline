@@ -38,8 +38,14 @@ https://forum.openzeppelin.com/t/create-an-erc20-using-remix-without-writing-sol
 https://vittominacori.github.io/erc20-generator/ - mint for a fee - has tons of different options
 
 
-3. zodiac pack
+3. Zodiac App
 https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg - Summary of how zodiac pack works
+Great summary of modules
+  https://github.com/gnosis/zodiac
+Reality Module
+  Enables on chain execution based on the outcome of events reported by reality.eth. Originally developed to execute
+  transactions according to snapshot modules. Framework agnostic. Could bring discord poll on chain(https://github.com/gnosis/zodiac`)
+
 
 4. create ENS domain
 https://docs.snapshot.org/spaces/before-creating-your-space
