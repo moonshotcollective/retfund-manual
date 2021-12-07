@@ -1,5 +1,11 @@
 Retroactive Public Goods Funding Starter Kit
 
+Trying to figure out how setting a floor price would work.
+Looking into a bonding curve that would buy back tokens.
+this doc suggests copper as a nice user friendly option:
+  (https://docs.balancer.fi/products/balancer-pools/liquidity-bootstrapping-pools-lbps)
+  looks like it needs to have a time limit thuogh
+
 1 - create gnosis safe (it's a multisig wallet that will be at the core of your DAO) on polygon
 why? - there is a need for an account that facilitates advanced access/control to make sure there is no
 single point of failure when managing significant amounts of digital assets.
